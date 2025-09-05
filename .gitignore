@@ -57,3 +57,4 @@ wp-content/plugins/*
 !wp-content/plugins/project-name-*
 wp-content/uploads/
 /wp-content/database/
+/wp-content/index.php
