@@ -1,0 +1,20 @@
+{
+	"extends": "@wordpress/stylelint-config",
+	"rules": {
+		"at-rule-no-unknown": null,
+		"at-rule-empty-line-before": [
+			"always",
+			{
+				"except": [ "first-nested" ],
+				"ignore": [ "after-comment" ],
+				"ignoreAtRules": [ "apply", "tailwind", "import", "source" ]
+			}
+		],
+		"selector-class-pattern": [ "", {} ]
+	},
+	"ignoreFiles": [
+		"wp-content/plugins/!(project-name-*)/**/*.css",
+		"wp-content/plugins/**/*.css",
+		"wp-content/plugins/**/*.scss"
+	]
+}

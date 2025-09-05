@@ -1,0 +1,12 @@
+node_modules
+vendor
+build
+wp-content/plugins/*
+!wp-content/plugins/project-name-*
+theme.json
+.prettierrc.js
+*.config.js
+*.config.ts
+package.json
+package-lock.json
+wp-content/themes/project-name/**/*.json

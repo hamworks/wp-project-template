@@ -1,0 +1,15 @@
+{
+	"core": null,
+	"mappings": {
+		"wp-content/mu-plugins": "./wp-content/mu-plugins",
+		"wp-content/themes": "./wp-content/themes",
+		"wp-content/plugins": "./wp-content/plugins"
+	},
+	"config": {
+		"WPLANG": "ja",
+		"WP_DEVELOPMENT_MODE": "all"
+	},
+	"phpVersion": "8.1",
+	"port": 7080,
+	"testsPort": 7081
+}
