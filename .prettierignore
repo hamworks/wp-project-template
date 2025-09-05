@@ -4,4 +4,4 @@ vendor
 package-lock.json
 .github/workflows/*
 theme.json
-./wp-content/themes/**/*.html
+wp-content/themes/**/*.html
