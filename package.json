@@ -5,6 +5,7 @@
 		"wp-content/themes/project-name"
 	],
 	"scripts": {
+		"wp-now": "cd ./wp-content && npx @wp-playground/cli@latest server --auto-mount",
 		"wp-env": "wp-env",
 		"dev": "run-p dev:*",
 		"dev:theme": "npm run dev -w ./wp-content/themes/project-name",

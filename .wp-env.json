@@ -9,7 +9,5 @@
 		"WPLANG": "ja",
 		"WP_DEVELOPMENT_MODE": "all"
 	},
-	"phpVersion": "8.1",
-	"port": 7080,
-	"testsPort": 7081
+	"phpVersion": "8.1"
 }

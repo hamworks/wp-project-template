@@ -22,11 +22,7 @@
 		"wp-coding-standards/wpcs": "^3.0",
 		"sirbrillig/phpcs-variable-analysis": "^2.11",
 		"squizlabs/php_codesniffer": "^3.7",
-		"wpackagist-plugin/create-block-theme": "2.7.0",
-		"wpackagist-plugin/safe-svg": "dev-trunk",
-		"wpackagist-plugin/wordpress-importer": "dev-trunk",
-		"wpackagist-plugin/advanced-query-loop": "dev-trunk",
-		"wpackagist-plugin/wordpress-seo": "dev-trunk"
+		"wpackagist-plugin/create-block-theme": "2.7.0"
 	},
 	"extra": {
 		"installer-paths": {
